@@ -1,0 +1,16 @@
+body{
+  background-color:#DDE5E4;
+}
+
+#left-hand{
+  height: 90vh;
+  justify-content: flex-start;
+}
+
+#right-hand{
+
+}
+
+.bg-green{
+  background-color:#DDE5E4;
+}
